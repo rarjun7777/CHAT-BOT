@@ -2,6 +2,10 @@
 
 A modern, voice-enabled chatbot powered by OpenAI's ChatGPT API. This web application allows users to interact with an AI assistant using voice commands or text input.
 
+# Demo Link 
+
+Link : https://www.loom.com/share/0524a365a2f14e08bad486ac8964d28e?sid=29ed1cb3-6d38-4be5-adbc-5c1a2f0ca66b
+
 ## Features
 
 - 🎤 Voice input using Web Speech API

@@ -30,6 +30,7 @@ Link : https://www.loom.com/share/0524a365a2f14e08bad486ac8964d28e?sid=29ed1cb3-
 ```bash
 git clone https://github.com/yourusername/chatgpt-voice-bot.git
 cd chatgpt-voice-bot
+Add your MongoDB URL in db.js file
 ```
 
 Serve the files using any static web server:

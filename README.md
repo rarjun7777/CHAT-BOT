@@ -12,9 +12,6 @@ A modern, voice-enabled chatbot powered by OpenAI's ChatGPT API. This web applic
 - 🔒 Secure API key storage (browser localStorage)
 - ⚡ Real-time interaction
 
-## Demo
-
-[Live Demo Link] - Add your deployment URL here
 
 ## Getting Started
 

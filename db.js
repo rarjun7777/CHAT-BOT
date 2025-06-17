@@ -1,6 +1,8 @@
 const { MongoClient } = require('mongodb');
 
-const uri = 'mongodb+srv://Arjun:5YJrNMjpUY9nB9nX@cluster0.f0emx94.mongodb.net/';
+
+// ADD YOUR MONGODB URL HERE
+const uri = '';
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 
 async function connectDB() {
